@@ -27,7 +27,8 @@ List of Private Repositories:
 15. Zephyr
 16. Data Structures
 17. Kali Linux Raspberry Pi5
-18. Rust  - Practice Rust programming 
+18. Rust  - Practice Rust programming
+19. Development and Debug tools
 
 List of Public Repositories
 1. Pico-HSM
