@@ -29,6 +29,7 @@ List of Private Repositories:
 17. Kali Linux Raspberry Pi5
 18. Rust  - Practice Rust programming
 19. Development and Debug tools
+20. DevOps
 
 List of Public Repositories
 1. Pico-HSM
