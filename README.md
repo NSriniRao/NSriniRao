@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Security development
 - 🌱 I’m currently learning Artificial Intelligence, Machine learning w.r.t SOC.
 - 💞️ I’m looking to collaborate on Secure, AIML Development.
-- 📫 Reach me @ nsrao25@gmail.com
+- 📫 Reach me @ nakkasrinirao@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
